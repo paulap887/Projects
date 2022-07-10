@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SuitAlteration.Messaging.Receive": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7264",
+      "launchBrowser": false
+    }
+  }
+}
